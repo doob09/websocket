@@ -1,0 +1,2 @@
+npm : package management for the app
+which dependencies will be required to use will be managed via npm
